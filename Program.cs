@@ -6,7 +6,7 @@ namespace bollen
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hedioillo World!"); 
+            Console.WriteLine("Hedioilelo World!"); 
         }
     }
 }
